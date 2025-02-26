@@ -34,7 +34,9 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"oVamp","path":"objects/oVamp/oVamp.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sVampeta","path":"sprites/sVampeta/sVampeta.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
