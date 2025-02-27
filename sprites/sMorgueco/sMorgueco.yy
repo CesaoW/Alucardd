@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"sMorgueco",
   "bboxMode":0,
-  "bbox_bottom":31,
+  "bbox_bottom":32,
   "bbox_left":7,
   "bbox_right":42,
   "bbox_top":13,
