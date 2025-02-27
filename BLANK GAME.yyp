@@ -34,6 +34,7 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oChao","path":"objects/oChao/oChao.yy",},},
     {"id":{"name":"oMorgueco","path":"objects/oMorgueco/oMorgueco.yy",},},
     {"id":{"name":"oVamp","path":"objects/oVamp/oVamp.yy",},},
