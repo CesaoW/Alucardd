@@ -35,9 +35,11 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"oChao","path":"objects/oChao/oChao.yy",},},
+    {"id":{"name":"oMorgueco","path":"objects/oMorgueco/oMorgueco.yy",},},
     {"id":{"name":"oVamp","path":"objects/oVamp/oVamp.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sChao","path":"sprites/sChao/sChao.yy",},},
+    {"id":{"name":"sMorgueco","path":"sprites/sMorgueco/sMorgueco.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"sVampeta","path":"sprites/sVampeta/sVampeta.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
