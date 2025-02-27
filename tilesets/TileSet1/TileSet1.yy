@@ -24,8 +24,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"sGrama_Noite",
+    "path":"sprites/sGrama_Noite/sGrama_Noite.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
