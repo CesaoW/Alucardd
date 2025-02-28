@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oCamera",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oCarroca",
+  "eventList":[],
   "managed":true,
-  "name":"oCamera",
+  "name":"oCarroca",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sCeu_noite_dois",
-    "path":"sprites/sCeu_noite_dois/sCeu_noite_dois.yy",
+    "name":"sCarroca",
+    "path":"sprites/sCarroca/sCarroca.yy",
   },
   "spriteMaskId":null,
   "visible":true,
