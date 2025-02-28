@@ -17,10 +17,10 @@
   "isDnd":false,
   "layers":[
     {"$GMRTileLayer":"","%Name":"Chao","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Chao","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":49,"SerialiseWidth":128,"TileCompressedData":[
-          -1040,-2147483648,-2,2,-124,-2147483648,-2,2,-124,-2147483648,-2,2,-242,-2147483648,-66,2,2,-2147483648,
-          2,-1137,-2147483648,1,1,-127,-2147483648,1,1,-119,-2147483648,-9,1,-119,-2147483648,-9,1,-82,-2147483648,
-          1,0,-250,-2147483648,-2,3,-123,-2147483648,-54,3,2,-2147483648,3,-72,-2147483648,-55,3,2,-2147483648,
-          3,-114,-2147483648,-2,3,-10,-2147483648,-2,3,-2375,-2147483648,
+          -1033,-2147483648,1,0,-6,-2147483648,-2,2,-119,-2147483648,1,0,-4,-2147483648,-2,2,-124,-2147483648,
+          -2,2,-242,-2147483648,-66,2,2,-2147483648,2,-1137,-2147483648,1,1,-127,-2147483648,1,1,-119,-2147483648,
+          -9,1,-119,-2147483648,-9,1,-82,-2147483648,1,0,-250,-2147483648,-2,3,-123,-2147483648,-54,3,2,-2147483648,
+          3,-72,-2147483648,-55,3,2,-2147483648,3,-114,-2147483648,-2,3,-10,-2147483648,-2,3,-2375,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4B32DB6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B32DB6C","objectId":{"name":"oChao","path":"objects/oChao/oChao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":63.999992,"scaleY":1.0,"x":-0.00012207031,"y":192.0,},

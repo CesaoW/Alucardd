@@ -7,7 +7,7 @@ if (move != 0) {
 }
 
 vel_x = move * spdd;
-x += vel_x;
+
 // Pulo
 if (keyboard_check_pressed(inputs.jump) && no_chao) {
     vel_y = vel_pulo;
