@@ -4,9 +4,10 @@ var move = -keyboard_check(inputs.left) + keyboard_check(inputs.right);
 
 if (move != 0) {
     image_xscale = move;
+    vel_x = move * spdd;
+} else {
+    vel_x = 0;
 }
-
-vel_x = move * spdd;
 
 // Pulo
 if (keyboard_check_pressed(inputs.jump) && no_chao) {
