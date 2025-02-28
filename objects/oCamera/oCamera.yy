@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sCeu_noite_dois",
-    "path":"sprites/sCeu_noite_dois/sCeu_noite_dois.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
