@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oVamp",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oPlataforma",
+  "eventList":[],
   "managed":true,
-  "name":"oVamp",
+  "name":"oPlataforma",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sVampeta",
-    "path":"sprites/sVampeta/sVampeta.yy",
+    "name":"sPlataforma",
+    "path":"sprites/sPlataforma/sPlataforma.yy",
   },
   "spriteMaskId":null,
   "visible":true,

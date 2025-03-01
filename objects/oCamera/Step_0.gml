@@ -2,7 +2,7 @@
 if !instance_exists(target_) exit;
 
 // Configurações da câmera
-var margem_x = 40; // Margem de tolerância horizontal
+var margem_x = 10; // Margem de tolerância horizontal
 var margem_y = 20; // Margem de tolerância vertical
 var suavizacao = 0.1; // Suavização geral da câmera
 var suavizacao_rapida = 0.2; // Suavização mais rápida

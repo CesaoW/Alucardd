@@ -10,7 +10,8 @@ inputs = {
     left: ord("A"),
     right: ord("D"),
     jump: ord("W"),
-    trans: ord("T")
+	down: ord("S"),
+    trans: ord("T"),
 };
 
 is_transformed = false;
