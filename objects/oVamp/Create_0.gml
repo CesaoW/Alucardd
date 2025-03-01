@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 gravidade = 0.5;
 vel_pulo = -8;
 vel_y = 0;
@@ -14,6 +15,10 @@ inputs = {
     trans: ord("T"),
 };
 
+=======
+event_inherited()
+trans = ord("T")
+>>>>>>> Stashed changes
 is_transformed = false;
 trans_spd = 8;
 

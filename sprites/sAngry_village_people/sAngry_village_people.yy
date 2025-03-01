@@ -3,8 +3,13 @@
   "%Name":"sAngry_village_people",
   "bboxMode":0,
   "bbox_bottom":31,
+<<<<<<< Updated upstream
   "bbox_left":37,
   "bbox_right":63,
+=======
+  "bbox_left":2,
+  "bbox_right":55,
+>>>>>>> Stashed changes
   "bbox_top":2,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -23,7 +28,7 @@
   ],
   "name":"sAngry_village_people",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -75,8 +80,8 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":28,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

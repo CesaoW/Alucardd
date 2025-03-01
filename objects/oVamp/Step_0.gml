@@ -16,7 +16,7 @@ if (keyboard_check_pressed(inputs.jump) && no_chao) {
 }
 
 // Transformação
-if (keyboard_check_pressed(inputs.trans)) {
+if (keyboard_check_pressed(trans)) {
     is_transformed = !is_transformed;
 
     if (is_transformed) {

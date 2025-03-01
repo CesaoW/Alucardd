@@ -34,9 +34,11 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"oAngry_Village","path":"objects/oAngry_Village/oAngry_Village.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oCarroca","path":"objects/oCarroca/oCarroca.yy",},},
     {"id":{"name":"oChao","path":"objects/oChao/oChao.yy",},},
+    {"id":{"name":"oEntity","path":"objects/oEntity/oEntity.yy",},},
     {"id":{"name":"oMorgueco","path":"objects/oMorgueco/oMorgueco.yy",},},
     {"id":{"name":"oPlataforma","path":"objects/oPlataforma/oPlataforma.yy",},},
     {"id":{"name":"oVamp","path":"objects/oVamp/oVamp.yy",},},
